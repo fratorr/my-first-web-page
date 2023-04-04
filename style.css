@@ -5,7 +5,28 @@ body {
     margin: 0;
 }
 
+/* --- header --- */
 
+.header {
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;    
+    min-width: 500px;
+}
+
+.header p {
+    font-size: 18px;
+    color:#e5e7eb;
+}
+
+.header h2 {
+    margin-right: 30px;
+    flex-shrink: 0;
+}
+
+
+
+/* --- end header --- */
 
 
 
