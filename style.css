@@ -32,6 +32,19 @@ body {
     align-items: center;
 }
 
+.header-image {
+    display: flex;
+    margin: 70px 150px;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
+
+.header-image img {
+    display: flex;
+    max-width: 450px;
+    border-radius: 8px;
+}
+
 
 
 /* --- end header --- */
