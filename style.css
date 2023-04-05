@@ -116,6 +116,31 @@ h1 {
 
 /* --- end info-section --- */
 
+/* --- quote-section --- */
+
+.quote-section {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-style: italic;
+    font-size: 26px;
+    font-family: Optima, Times, 'Times New Roman', serif;  
+}
+
+.container-quote { 
+    margin: 80px 40px 50px;
+}
+
+.quote-author {
+    text-align: end;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* --- end quote-section --- */
+
+
 
 
 
