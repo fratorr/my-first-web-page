@@ -140,7 +140,27 @@ h1 {
 
 /* --- end quote-section --- */
 
+/* --- lower-section --- */
 
+.container-mailing-list {
+    display: flex;
+    margin: 70px 150px;
+    justify-content: center;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border-radius: 8px;
+}
+
+.container-layer2 {
+    display: flex;
+    gap: 60px;
+}
+
+.container-layer1 {
+    padding: 0 50px;
+}
+
+/* --- end quote-section --- */
 
 
 
