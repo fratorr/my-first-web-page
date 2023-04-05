@@ -80,9 +80,22 @@ h1 {
 
 /* --- end header --- */
 
+/* --- info-section --- */
 
+.info-section {
+    display: flex;
+    flex-direction: column;
+}
 
+.container-info {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
 
+/* --- end info-section --- */
 
 
 
