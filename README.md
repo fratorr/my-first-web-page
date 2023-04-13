@@ -1,8 +1,8 @@
 # my-first-web-page
 
-This is the project at the end of the Flexbox section in the Foundation Course of The Odin Project, and consists of a simple web page built from scratch.
+This is my first web page and I built it from scratch following the instructions in "Project: Landing Page" - [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page) in the Foundation Course of The Odin Project, an online Web Development course.
 
-- [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page)
+The purpose of this project is to show the acquired knowledge about HTML and CSS foundations, Flexbox, Git, and Github.
 
 The images used on this web page have been taken from various free stock image hosting websites:
 
