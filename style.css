@@ -160,7 +160,6 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     gap: 60px;
-    
 }
 
 .container-layer1 {
@@ -179,8 +178,6 @@ h1 {
     display: flex;
     flex-shrink: 0;
 }
-
-
 
 /* --- end lower-section --- */
 
