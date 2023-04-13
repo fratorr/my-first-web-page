@@ -30,6 +30,7 @@ body {
     align-items: center;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .header-image {
@@ -192,10 +193,6 @@ h1 {
     color: #e5e7eb;
     text-align: center;
 }
-
 /* --- end footer --- */
 
 
-* {
-    border: 1px solid red;
-}
