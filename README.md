@@ -2,7 +2,7 @@
 
 This is my first web page and I built it from scratch following the instructions in "Project: Landing Page" - [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page) in the Foundation Course of The Odin Project, an online Web Development course.
 
-The purpose of this project is to show the acquired knowledge about HTML and CSS foundations, Flexbox, Git, and Github.
+The purpose of this project is to show the acquired knowledge about HTML and CSS foundations, Flexbox, Git, and GitHub.
 
 The images used on this web page have been taken from various free stock image hosting websites:
 
